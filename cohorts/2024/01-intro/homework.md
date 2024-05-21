@@ -14,9 +14,8 @@ Read the data for January. How many columns are there?
 
 * 16
 * 17
-* 18
+* [X] 18
 * 19
-
 
 ## Q2. Computing duration
 
@@ -25,7 +24,7 @@ Now let's compute the `duration` variable. It should contain the duration of a r
 What's the standard deviation of the trips duration in January?
 
 * 32.59
-* 42.59
+* [X] 42.59
 * 52.59
 * 62.59
 
@@ -39,7 +38,7 @@ What fraction of the records left after you dropped the outliers?
 * 90%
 * 92%
 * 95%
-* 98%
+* [X] 98%
 
 
 ## Q4. One-hot encoding
@@ -53,7 +52,7 @@ Let's apply one-hot encoding to the pickup and dropoff location IDs. We'll use o
 
 What's the dimensionality of this matrix (number of columns)?
 
-* 2
+* [X] 2
 * 155
 * 345
 * 515
@@ -70,7 +69,7 @@ Now let's use the feature matrix from the previous step to train a model.
 What's the RMSE on train?
 
 * 3.64
-* 7.64
+* [X] 7.64
 * 11.64
 * 16.64
 
@@ -81,7 +80,7 @@ Now let's apply this model to the validation dataset (February 2023).
 
 What's the RMSE on validation?
 
-* 3.81
+* [X] 3.81
 * 7.81
 * 11.81
 * 16.81
