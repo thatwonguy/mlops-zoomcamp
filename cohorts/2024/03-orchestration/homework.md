@@ -87,8 +87,8 @@ What's the intercept of the model?
 Hint: print the `intercept_` field in the code block
 
 - 21.77
-- [X] 24.77
-- 27.77
+- 24.77
+- [X] 27.77
 - 31.77
 
 ## Question 6. Register the model 
